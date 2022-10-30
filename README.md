@@ -1,5 +1,5 @@
 # Daniel Polo
-- 👋 Hello everyone and thank you for coming here
+- 👋 Hi and thank you for coming here
 - 👀 I am interested in programming and languages such as: CSS, HTML, Java, jQuery, JS, JSON, PHP, SQL, XML
 - 🌱 I’m currently learning and improving Java, Maven, Spring, Liquibase, Hibernate and design patterns
 - 💞️ I always evaluate to collaborate on inspiring projects
@@ -21,3 +21,6 @@ I like new challenges as well as the opportunity to grow constantly and that's w
 value, aware of bringing with me a certain technical baggage that is not complete but always in a growth phase.
 
 *"Hard work pays off in the long run. Procrastination pays off."*
+
+Kind regards
+Daniel Polo
