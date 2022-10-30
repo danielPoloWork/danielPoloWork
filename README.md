@@ -13,7 +13,7 @@ as a sincere, tenacious, motivated, dedicated, authoritarian and extremely self-
 colleagues. I work hard and I like to achieve my goals.
 
 I like new challenges as well as the opportunity to grow constantly and that's why I love the IT field. I always appreciate having the opportunity to demonstrate my
-value, aware of bringing with me a certain technical baggage that is not complete but always in a growth phase.
+value, aware of bringing with me certain technical baggage that is not complete but always in a growth phase.
 
 ###### *"Hard work pays off in the long run. Procrastination pays off."*
 
