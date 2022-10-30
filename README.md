@@ -8,8 +8,8 @@ Let me introduce my self,
 
 my name is Daniel and I graduated as a "IT expert chief technician" for the industrial sector. Despite knowing that I have just over three years
 of experience in the field of software development of websites and web applications (CRM, ERP) but less than one year in the field of industrial ERP development, I always
-try to improve my skills. I am attracted by the vision of innovation that shines through IT field, a vision I agree and consider necessary in the development of a modern
-company.
+try to improve my skills. I am attracted by the vision of innovation that shines through IT field, a vision I agree and consider necessary to facilitate the progress
+of a modern company.
 
 I find it enjoyable to work in close-knit teams in a context of equal experiences, where everyone is encouraged to improve and do your best. I have been described
 as a sincere, tenacious, motivated, dedicated, authoritarian and extremely self-critical person, characteristics that have marked mutual esteem with some of my 
