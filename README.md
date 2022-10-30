@@ -1,6 +1,6 @@
 - 👋 Hi and thank you for coming here
-- 👀 I am interested in programming and languages such as: CSS, HTML, Java, jQuery, JS, JSON, PHP, SQL, XML
-- 🌱 I’m currently learning and improving Java, Maven, Spring, Liquibase, Hibernate and design patterns
+- 👀 I am interested in programming and languages such as: *CSS, HTML, Java, jQuery, JS, JSON, PHP, SQL, XML*
+- 🌱 I’m currently learning and improving *Java, Maven, Spring, Liquibase, Hibernate* and *design patterns*
 
 # About me
 My name is Daniel and I graduated as a "IT expert chief technician" for the industrial sector. Despite knowing that I have just over three years
