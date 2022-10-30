@@ -22,5 +22,4 @@ value, aware of bringing with me a certain technical baggage that is not complet
 
 *"Hard work pays off in the long run. Procrastination pays off."*
 
-Kind regards
-Daniel Polo
+Kind regards, Daniel Polo
