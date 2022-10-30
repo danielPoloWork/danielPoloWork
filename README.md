@@ -1,8 +1,8 @@
 # Daniel Polo
-- 👋 Hi, I’m **@danielPoloWork**
+- 👋 Hello everyone and thank you for coming here
 - 👀 I am interested in programming and languages such as: CSS, HTML, Java, jQuery, JS, JSON, PHP, SQL, XML
 - 🌱 I’m currently learning and improving Java, Maven, Spring, Liquibase, Hibernate and design patterns
-- 💞️ I’m always up to collaborate on inspiring projects
+- 💞️ I always evaluate to collaborate on inspiring projects
 - 📫 How to reach me **daniel.polo.work@gmail.com**
 
 # About me
