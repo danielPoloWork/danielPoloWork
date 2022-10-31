@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and improving *Java, Maven, Spring, Liquibase, Hibernate* and *design patterns*
 
 # About me
-My name is Daniel and I graduated as a "IT expert chief technician" for the industrial sector. Despite knowing that I have just over three years
+My name is Daniel and I graduated as "IT expert chief technician" for the industrial sector. Despite knowing that I have just over three years
 of experience in the field of software development of websites or web applications (CRM, ERP) and less than one year in the field of industrial ERP development, I always
 try to improve my skills. I am attracted by the vision of innovation that shines through IT field, a vision I agree and consider necessary to facilitate the progress
 of modern companies.
