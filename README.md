@@ -1,5 +1,5 @@
 - 👋 Greetings and thank you for coming here
-- 👀 I am interested in programming and languages such as: *CSS, HTML, Java, jQuery, JS, JSON, PHP, SQL, XML*
+- 👀 I am interested in both backend and frontend development with languages such as: *CSS, HTML, Java, jQuery, JS, JSON, PHP, SQL, XML*
 - 🌱 I’m currently learning and improving *Java, Maven, Spring, Liquibase, Hibernate* and *design patterns*
 
 # About me
