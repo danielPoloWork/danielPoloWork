@@ -8,7 +8,7 @@ of experience in the field of software development of websites or web applicatio
 try to improve my skills. I am attracted by the vision of innovation that shines through IT field, a vision I agree and consider necessary to facilitate the progress
 of modern companies.
 
-I find it enjoyable to work in close-knit teams in a context of equal experiences, where everyone is encouraged to improve and do your best. I have been described
+I find it enjoyable to work in close-knit teams in a context of equal experiences, where everyone is encouraged to improve and do our best. I have been described
 as a sincere, tenacious, motivated, dedicated, authoritarian and extremely self-critical person, characteristics that have marked mutual esteem with some of my 
 colleagues. I work hard and I like to achieve my goals.
 
