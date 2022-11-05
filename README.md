@@ -24,6 +24,6 @@ Kind regards, Daniel Polo
 # My public repositories
 - [🏆 Code challenges](https://github.com/stars/danielPoloWork/lists/code-challenges), solution to code challenge websites like leetCode;
 - [🚀 My stack](https://github.com/stars/danielPoloWork/lists/my-stack), some of my projects;
-- [📚 Guides, templates & utilities](https://github.com/stars/danielPoloWork/lists/guides-templates-utilities), config files, guides, templates, themes and utilities;
+- [📚 Utilities](https://github.com/stars/danielPoloWork/lists/utilities), config files, guides, templates, themes and utilities;
 - [📙 EURIS Teaching materials](https://github.com/stars/danielPoloWork/lists/euris-teaching-materials), tutor's materials;
 - [🎓 EURIS Academy 2022](https://github.com/stars/danielPoloWork/lists/euris-academy-2022), my exams. 
