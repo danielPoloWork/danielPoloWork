@@ -1,6 +1,6 @@
 # Welcome
 - 👋 Greetings and thank you for your interest in my services.
-- 👀 I am interested in both backend and frontend development with languages such as CSS, HTML, Java, jQuery, JS, JSON, PHP, SQL, and XML.
+- 👀 I am interested in both backend and frontend development with many languages.
 - 🌱 I am currently learning and improving Java, Maven, Spring, Liquibase, Hibernate, and design patterns.
 
 # About me
