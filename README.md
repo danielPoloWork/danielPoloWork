@@ -8,9 +8,6 @@ My name is Daniel Polo, and I'm thrilled to introduce myself as a fervent advoca
 <br><br>
 My journey in the realm of technology has led me to explore the diverse landscapes of backend and frontend development, traversing through a myriad of programming languages. From the robust foundations of backend frameworks to the intricacies of frontend design, I find joy in the dynamic interplay between code and creativity. With a penchant for continuous learning and growth, I eagerly embrace the challenges that each project brings, driven by the pursuit of excellence.
 <br clear="left"/>
-<br>
-
-🌱 Currently learning: Java, Maven, Spring, Liquibase, Hibernate, and Design Patterns.
 
 ---
 ### About me
