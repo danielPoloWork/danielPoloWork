@@ -1,24 +1,31 @@
-# Welcome
-- 👋 Greetings and thank you for your interest in my services.
-- 👀 I am interested in both backend and frontend development with many languages.
-- 🌱 I am currently learning and improving Java, Maven, Spring, Liquibase, Hibernate, and design patterns.
+# Hi and welcome 👋👨‍💻
+Greetings, and thank you for your interest in my services! I'm Daniel Polo, a passionate software developer with a strong interest in both backend and frontend development across various programming languages.
 
-# About me
-My name is Daniel, and I graduated as an IT expert chief technician in the industrial sector. Despite having just over three years of experience in software development for websites or web applications (CRM, ERP) and less than one year in industrial ERP development, I am always striving to enhance my skills. I am drawn to the vision of innovation that pervades the IT field, a vision I endorse and consider essential for the advancement of modern companies.
+🌱 Currently Learning: Java, Maven, Spring, Liquibase, Hibernate, and design patterns.
 
-I find it enjoyable to work in close-knit teams in a context of equal experiences, where everyone is encouraged to improve and do their best. I have been described as a sincere, tenacious, motivated, dedicated, authoritarian and extremely self-critical person, which has led to mutual esteem with some of my colleagues. I work hard and I like to achieve my goals.
+---
 
-I am motivated by new challenges and the opportunity to grow constantly, which is why I love the IT field. I am grateful for the opportunity to demonstrate my value, aware that I bring certain technical skills that are not yet complete but always in a growth phase. If you are interested, you can view my Leetcode profile.
+### About me
+I hold a degree as an IT expert chief technician. With over five years of experience in developing websites and web applications (CRM, ERP), and nearly a year in industrial ERP development, I am dedicated to continuously enhancing my skills. Innovation drives my passion for IT, and I believe it is crucial for the advancement of modern companies.
 
-###### *"I hear and I forget. I see and I remember. I do and I understand."*
+I thrive in collaborative environments where everyone is encouraged to improve and excel. My colleagues describe me as sincere, tenacious, motivated, dedicated, authoritative, and extremely self-critical. These traits have helped me earn mutual respect with my colleagues. I am committed to hard work and achieving my goals.
 
-Kind regards, Daniel Polo
+### Motivation
+> "I hear and I forget. I see and I remember. I do and I understand." 孔夫子 (Confucius)
 
-###### Italy, 2024
+I am driven by new challenges and the opportunity for continuous growth. This is why I love the IT field. Although my technical skills are constantly evolving, I am confident in my ability to contribute meaningfully and demonstrate my value.
 
-# My public repositories
-- [🏆 Code challenges](https://github.com/stars/danielPoloWork/lists/code-challenges), solution to code challenge websites like leetCode;
-- [🚀 My stack](https://github.com/stars/danielPoloWork/lists/my-stack), some of my projects;
-- [📚 Utilities](https://github.com/stars/danielPoloWork/lists/utilities), config files, guides, templates, themes and utilities;
-- [📙 EURIS Academy 2022 - Material](https://github.com/stars/danielPoloWork/lists/euris-academy-2022-material), tutor's materials;
-- [🎓 EURIS Academy 2022 - Exams](https://github.com/stars/danielPoloWork/lists/euris-academy-2022-exams), my exams. 
+Kind regards,
+*Daniel Polo*
+
+###### 📍 Italy, 2024
+
+---
+
+### My public repositories
+🧩 Interested in my work? Check out my repositories.
+- [🏆 Code challenges](https://github.com/stars/danielPoloWork/lists/code-challenges): Solutions to coding challenge websites like LeetCode.
+- [🚀 My stack](https://github.com/stars/danielPoloWork/lists/my-stack): A collection of my personal projects.
+- [📚 Utilities](https://github.com/stars/danielPoloWork/lists/utilities): Configuration files, guides, templates, themes, and other utilities.
+- [📙 EURIS Academy 2022 - Material](https://github.com/stars/danielPoloWork/lists/euris-academy-2022-material): Tutor's materials from my studies.
+- [🎓 EURIS Academy 2022 - Exams](https://github.com/stars/danielPoloWork/lists/euris-academy-2022-exams): My exams and assessments.
