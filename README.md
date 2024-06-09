@@ -1,7 +1,7 @@
 # Hi and welcome 👋👨‍💻
 I appreciate your interest in my services!
 
-My name's Daniel Polo, and I'm a passionate software developer with a strong interest in both backend and frontend development across various programming languages.
+My name's Daniel Polo, and I'm a passionate software developer with a strong interest in both backend and frontend development across multiple programming languages.
 
 🌱 Currently learning: Java, Maven, Spring, Liquibase, Hibernate, and Design Patterns.
 
