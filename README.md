@@ -17,9 +17,9 @@ I'm an IT expert and chief technician with a degree. I've been developing websit
 I thrive in collaborative environments where everyone is encouraged to improve and excel. My colleagues say I'm sincere, tenacious, motivated, dedicated, authoritative, and extremely self-critical. These traits have helped me earn the respect of my colleagues. I'm committed to hard work and achieving my goals.
 <br clear="right"/>
 
-> "I hear and I forget. I see and I remember. I do and I understand." 孔夫子 (Confucius)
-
 [**ENFJ-T Personality**](https://www.16personalities.com/enfj-personality)
+
+> "I hear and I forget. I see and I remember. I do and I understand." 孔夫子 (Confucius)
 
 ---
 ### Competence
