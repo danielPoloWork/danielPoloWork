@@ -15,13 +15,13 @@ I thrive in collaborative environments where everyone is encouraged to improve a
 > "I hear and I forget. I see and I remember. I do and I understand." 孔夫子 (Confucius)
 
 ### Motivation
-I am driven by new challenges and the opportunity for continuous growth. This is why I love the IT field. Although my technical skills are constantly evolving, I am confident in my ability to contribute meaningfully and demonstrate my value.
+New challenges and the opportunity for continuous growth drive me. This is why I love the IT field. Although my technical skills constantly evolve, I am confident in my ability to contribute meaningfully and demonstrate my value.
 
 ### Professional competence
 I consider myself a junior software developer competent in designing, installing, testing, and maintaining software systems. I have mastered various platforms, languages, and frameworks. I am effective at self-managing during independent projects and collaborating as part of a production team.
 
 ### Innovative vision
-I possess an innovative vision and strive to make the world a more unified and connected place. I am a creative thinker, capable of software development, and proficient with various data structures. My proven efficiency and ability to learn and navigate any computer software program or office storage system set me apart.
+I possess an innovative vision and strive to make the world a more unified and connected place. I am a creative thinker, capable of software development, and proficient with various data structures. 
 
 ### Organizational skills
 I have high-quality organizational skills and a self-motivated drive to achieve excellent results. I am highly dedicated and productive, always striving to provide the best possible service. Ready to face new challenges, I use my skills for purposes beyond direct personal gain, investing time and energy to help others.
