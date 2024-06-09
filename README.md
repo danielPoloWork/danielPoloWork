@@ -1,33 +1,46 @@
 # Hi and welcome 👋👨‍💻
-Greetings, and thank you for your interest in my services! 
+I appreciate your interest in my services!
 
-I'm Daniel Polo, a passionate software developer with a strong interest in both backend and frontend development across various programming languages.
+My name's Daniel Polo, and I'm a passionate software developer with a strong interest in both backend and frontend development across various programming languages.
 
-🌱 Currently Learning: Java, Maven, Spring, Liquibase, Hibernate, and design patterns.
+🌱 Currently learning: Java, Maven, Spring, Liquibase, Hibernate, and Design Patterns.
 
 ---
 
 ### About me
-I hold a degree as an IT expert chief technician. With over five years of experience in developing websites and web applications (CRM, ERP), and nearly a year in industrial ERP development, I am dedicated to continuously enhancing my skills. Innovation drives my passion for IT, and I believe it is crucial for the advancement of modern companies.
+I'm an IT expert and chief technician with a degree. I've been developing websites and web apps (CRM, ERP) for over five years and have nearly a year of experience in industrial ERP development. I'm always looking to improve my skills. I'm passionate about IT and believe it's crucial for modern companies to innovate.
 
-I thrive in collaborative environments where everyone is encouraged to improve and excel. My colleagues describe me as sincere, tenacious, motivated, dedicated, authoritative, and extremely self-critical. These traits have helped me earn mutual respect with my colleagues. I am committed to hard work and achieving my goals.
+I thrive in collaborative environments where everyone is encouraged to improve and excel. My colleagues say I'm sincere, tenacious, motivated, dedicated, authoritative, and extremely self-critical. These traits have helped me earn the respect of my colleagues. I'm committed to hard work and achieving my goals.
 
 > "I hear and I forget. I see and I remember. I do and I understand." 孔夫子 (Confucius)
 
+### Competence
+I consider myself a junior software developer who can handle the design, installation, testing, and maintenance of software systems. I've got my hands on a lot of different platforms, languages, and frameworks.
+
+I can manage my own projects and work well with others on a team. I have a forward-thinking vision and am passionate about making the world a more unified and connected place.
+
+As a creative thinker, I'm good at software development and working with different data structures. I've shown I can pick up any computer software program or office storage system quickly and easily.
+
+### Traits
+I'm great at keeping things organized and I'm always motivated to get great results. I’m really dedicated and I always try to give the best service I can.
+
+I’m up for new challenges and I’m happy to use my skills for more than just my own profit. I'm always willing to help others, often going above and beyond what's expected. I find that being busy often leads to higher productivity and greater satisfaction.
+
+I'm ready and willing to meet the goals I've set for myself and to do my job well. My motivation is what drives me to be a reliable and satisfied worker. Sometimes, a pat on the back from my colleagues or superiors, a steady paycheque for my family, or just the knowledge that I can kick back after work is enough to keep me going.
+
+### Philosophy
+I’m really curious and have a strong desire to try new things that fall within my interests. Sometimes I look for new challenges just because I’m curious or because I want to learn or grow.
+
+I'm good at looking at my own work and seeing what I can do better. I know when I've done a good job and where I can improve. I can take constructive criticism in stride and take pride in my commitment to my work.
+
+Sometimes I can be quite empathetic, and I can see where my colleagues are coming from, whether they're celebrating a success or facing a challenge. If a colleague is going through a rough patch in their personal life, I try to be there for them, offering advice and listening.
+
+I’m a natural leader and mentor. I honed these skills as an assistant martial arts instructor teaching kids between 4 and 12 years old. I was known for my empathy and kindness.
+
+I'm pretty good at adapting to different social situations and making them work for me. I like to get along with my colleagues so we can all work together more easily.
+
 ### Motivation
-New challenges and the opportunity for continuous growth drive me. This is why I love the IT field. Although my technical skills constantly evolve, I am confident in my ability to contribute meaningfully and demonstrate my value.
-
-### Professional competence
-I consider myself a junior software developer competent in designing, installing, testing, and maintaining software systems. I have mastered various platforms, languages, and frameworks. I am effective at self-managing during independent projects and collaborating as part of a production team.
-
-### Innovative vision
-I possess an innovative vision and strive to make the world a more unified and connected place. I am a creative thinker, capable of software development, and proficient with various data structures. 
-
-### Organizational skills
-I have high-quality organizational skills and a self-motivated drive to achieve excellent results. I am highly dedicated and productive, always striving to provide the best possible service. Ready to face new challenges, I use my skills for purposes beyond direct personal gain, investing time and energy to help others.
-
-### Personal Philosophy
-At work, I perform my duties and go beyond expectations. My busy schedule often has a positive effect on my productivity. I am willing and determined to achieve set goals and perform tasks well. My motivation and inner drive, make me a reliable and satisfied worker. Whether it’s the appreciation of colleagues and superiors, the financial security of my family, or the simple satisfaction of being able to relax after work, these are elements that keep me driven.
+I'm driven by new challenges and the chance to keep growing. That’s why I love the IT field. My technical skills keep evolving, but I know I can make a meaningful contribution and show what I can do.
 
 Kind regards,
 *Daniel Polo*
