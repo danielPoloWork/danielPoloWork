@@ -21,6 +21,7 @@ My journey in technology has taken me across the full spectrum of backend and fr
 ---
 ### About me
 <img src="https://www.16personalities.com/static/images/personality-types/avatars/faces/enfj-protagonist-s3-v1-male.svg?v=3" align="right" width="240px"/>
+
 I am a full-stack software engineer with **5+ years** of professional experience, specialising in **backend architecture** for enterprise web applications (CRM, ERP) and **industrial automation systems**. Over the past three years I have been designing and developing management software for **robotised warehouse environments**, integrating with autonomous guided vehicles (AGVs) and precision weighing hardware. Most recently I have expanded into **CAD automation engineering**, leading the design and implementation of a SolidWorks macro pipeline that programmatically generates 3D assemblies and 2D technical layouts from structured data, replacing a legacy 2D AutoDesk workflow entirely.
 
 I complement deep backend expertise with mid-level frontend skills and a growing focus on **AI agent engineering** — an area I am actively pursuing as my next specialisation.
@@ -31,6 +32,7 @@ I complement deep backend expertise with mid-level frontend skills and a growing
 ---
 ### Competence
 <img src="https://www.16personalities.com/static/images/personality-types/scenes/diplomats_Protagonist_ENFJ_workplace_habits.svg" align="left" width="40%"/>
+
 I operate as a full-stack developer with hands-on experience across the complete software lifecycle — from system design and architecture through to development, testing, and long-term maintenance. My work spans a broad range of platforms, languages, and frameworks, reflecting both breadth of exposure and depth where it matters most.
 <br><br>
 I am equally comfortable leading a project independently and contributing as part of a structured team. I maintain a forward-thinking approach to software design and am driven by the belief that well-engineered systems are essential to the innovation of modern organisations.
@@ -67,6 +69,7 @@ Experimental internal project exploring the design of a **company-wide knowledge
 ---
 ### Traits
 <img src="https://www.16personalities.com/static/images/personality-types/scenes/diplomats_Protagonist_ENFJ_career_path.svg" align="right" width="40%"/>
+
 As an [**ENFJ-T**](https://www.16personalities.com/enfj-personality), I bring strong organisational discipline and a consistent drive to deliver high-quality outcomes. I hold myself to demanding standards and always aim to provide the best possible contribution to every project and team I work with.
 <br><br>
 I actively seek out new challenges and take satisfaction in applying my skills beyond narrow self-interest. I am committed to supporting colleagues and frequently go beyond what is strictly expected — I find that a full, demanding workload tends to bring out my highest levels of productivity and engagement.
@@ -75,6 +78,7 @@ I actively seek out new challenges and take satisfaction in applying my skills b
 ---
 ### Philosophy
 <img src="https://www.16personalities.com/static/images/personality-types/scenes/diplomats_Protagonist_ENFJ_strengths.svg" align="left" width="40%"/>
+
 I maintain a genuine intellectual curiosity and a strong drive to explore domains that fall within — and occasionally beyond — my current areas of expertise. I regularly seek out new challenges, motivated as much by the desire to learn as by the pursuit of tangible results.
 <br><br>
 I am rigorous in self-assessment and consistently identify opportunities to improve my own work. I maintain a clear awareness of both my strengths and the gaps I am working to close. I welcome constructive criticism as a tool for growth and take genuine pride in the quality and consistency of what I deliver.
@@ -83,6 +87,7 @@ I am rigorous in self-assessment and consistently identify opportunities to impr
 ---
 ### Motivation
 <img src="https://www.16personalities.com/static/images/personality-types/scenes/diplomats_Protagonist_ENFJ_parenthood.svg" align="right" width="40%"/>
+
 I am driven by the challenge of solving complex problems and the pursuit of continuous growth — which is why the IT field has been such a natural fit. The ever-evolving nature of technology sustains my engagement, and I thrive in environments where innovation and learning are embedded in the day-to-day.
 <br><br>
 As my technical expertise deepens and broadens, I am committed to applying it in ways that generate meaningful impact — for the teams I work with, the systems I build, and the organisations that depend on them.
@@ -90,6 +95,7 @@ As my technical expertise deepens and broadens, I am committed to applying it in
 
 ---
 ### Working style
+
 I thrive in **collaborative, high-accountability environments** where continuous improvement is the norm rather than the exception. Colleagues describe me as tenacious, self-critical, and delivery-focused — traits that translate into clean architecture decisions, thorough documentation, and proactive communication when blockers arise.
 
 I approach every project with a strong commitment to **design before code**: system design, data modelling, and interface contracts are always defined and documented before the first line of implementation is written.
