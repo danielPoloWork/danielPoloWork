@@ -1,6 +1,5 @@
-![](https://www.16personalities.com/static/animations/type-descriptions/introductions/protagonist.svg?v=2)
+<img width="1920" height="550" alt="daniel-polo-flayer" src="https://github.com/user-attachments/assets/ce992820-531f-4769-9ca4-d333ec169997" />
 
-# Daniel Polo
 ### *Senior Backend Engineer · Full-Stack Developer · AI Engineering (junior)*
 
 *Building robust, integrated digital systems where backend precision meets industrial complexity.*
