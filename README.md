@@ -1,103 +1,127 @@
-<img width="1920" height="550" alt="daniel-polo-flayer" src="https://github.com/user-attachments/assets/ce992820-531f-4769-9ca4-d333ec169997" />
+<!--
+  TODO before publishing:
+  - Fill every [~N] / [~N%] placeholder with real numbers.
+  - Confirm your real location / remote preference in the Contact section.
+  - Optional: swap the "Code Challenges" badge for a real public LeetCode profile if you have one.
+  - Create the portfolio repos referenced in the Portfolio section (suggested slugs):
+      danielPoloWork/warehouse-orchestration-reference   (Java)
+      danielPoloWork/realtime-telemetry-dashboard        (TypeScript)
+      danielPoloWork/erp-data-pipeline                   (Python)
+      danielPoloWork/ai-document-assistant               (Python / AI)
+      danielPoloWork/architecture-case-studies           (system design)
+    The links below already point to these slugs — they go live once the repos exist.
+  - Hide / make private: "my-stack", "utilities", and the EURIS Academy lists (they read early-career).
+  - Pin all 5 repos + Code challenges (= exactly GitHub's 6 pinned slots), from the profile UI.
+-->
 
-### *Senior Backend Engineer · Full-Stack Developer · AI Engineering (junior)*
+<img width="1920" height="550" alt="banner" src="https://github.com/user-attachments/assets/ce992820-531f-4769-9ca4-d333ec169997" />
 
-*Building robust, integrated digital systems where backend precision meets industrial complexity.*
+# Daniel Polo
+### Senior Backend Engineer · Full-Stack Developer · exploring AI Engineering
+
+Backend architecture for systems where software meets physical operations — enterprise CRM/ERP, robotised warehouses, and CAD automation. I design the system before I write the code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/daniel-polo-work)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://github.com/stars/danielPoloWork/lists/code-challenges)
+[![Code Challenges](https://img.shields.io/badge/Code_Challenges-FFA116?style=flat&logo=leetcode&logoColor=white)](https://github.com/stars/danielPoloWork/lists/code-challenges)
 
 ---
-### Hi and welcome
 
-I appreciate your interest in my profile!
+## About
 
-My name is Daniel, and I am a passionate advocate of software development with a deep commitment to building digital solutions that seamlessly blend functionality and technical rigour. My journey in technology has taken me across the full spectrum of backend and frontend development, through a wide range of languages, frameworks, and problem domains. I find genuine satisfaction in the interplay between architecture and implementation — and I approach every challenge as an opportunity to learn, improve, and deliver.
+I'm a full-stack engineer with **5+ years** of professional experience, deep on **backend architecture** for enterprise web applications (CRM, ERP) and **industrial automation**.
 
----
-### About me
+For the past **3 years** I've architected management software for **fully-automated warehouses** — real-time integration with **autonomous guided vehicles (AGVs)** and **precision weighing hardware** through custom protocol adapters, orchestrating ~200 pick-and-place operations per day across ~20,000 SKUs.
 
-I am a full-stack software engineer with **5+ years** of professional experience, specialising in **backend architecture** for enterprise web applications (CRM, ERP) and **industrial automation systems**. Over the past three years I have been designing and developing management software for **robotised warehouse environments**, integrating with autonomous guided vehicles (AGVs) and precision weighing hardware. Most recently I have expanded into **CAD automation engineering**, leading the design and implementation of a SolidWorks macro pipeline that programmatically generates 3D assemblies and 2D technical layouts from structured data, replacing a legacy 2D AutoDesk workflow entirely.
+Most recently I led a **CAD automation** initiative that replaced a legacy **2D AutoCAD** workflow with a **SolidWorks** macro pipeline — generating 3D assemblies and 2D technical layouts directly from ERP data, cutting drawing time by ~99%.
 
-I complement deep backend expertise with mid-level frontend skills and a growing focus on **AI agent engineering** — an area I am actively pursuing as my next specialisation.
+Deep on the backend (**Java / Spring**), mid-level on the frontend. My focus stays on the craft of building software — growing toward architect-level backend and platform work — while I deliberately explore **AI-agent engineering** as the next frontier.
 
-> "I hear and I forget. I see and I remember. I do and I understand." 孔夫子 (Confucius)
+> **On visibility:** most of my strongest work is proprietary and under NDA. What's public here is purpose-built to demonstrate the same engineering — reference projects and coding challenges. I'm glad to walk through the architecture and design decisions of the private systems in a call, or share sanitised case studies.
 
 ---
-### Competence
 
-I operate as a full-stack developer with hands-on experience across the complete software lifecycle — from system design and architecture through to development, testing, and long-term maintenance. My work spans a broad range of platforms, languages, and frameworks, reflecting both breadth of exposure and depth where it matters most.
+## Tech
 
-I am equally comfortable leading a project independently and contributing as part of a structured team. I maintain a forward-thinking approach to software design and am driven by the belief that well-engineered systems are essential to the innovation of modern organisations.
+**Primary stack:** Java · Spring Boot / Spring MVC · PostgreSQL · REST / OpenAPI · Docker
 
-
-|Languages|Frameworks & runtime|Databases|Tools & DevOps|CAD & automation|API & integration|
+| Languages | Frameworks & runtime | Databases | Tools & DevOps | CAD & automation | API & integration |
 |---|---|---|---|---|---|
-|![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)               |![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)|![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)|![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)|![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white)|![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)|
-|![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)|![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white)|![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)|![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)|![AutoDesk](https://img.shields.io/badge/AutoDesk-000000?style=flat&logo=autodesk&logoColor=white)|![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)|
-|![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)|![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)|![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)|![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)||![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)|
-|![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)            ||![Informix](https://img.shields.io/badge/Informix-052FAD?style=flat&logo=ibm&logoColor=white)|![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)||
-|![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)                     |||||
-|![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)          |||||
-|![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)              |||||
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) | ![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=flat&logo=autodesk&logoColor=white) | ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) | ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white) | | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | | ![Informix](https://img.shields.io/badge/Informix-052FAD?style=flat&logo=ibm&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | | |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | | | | | |
+| ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white) | | | | | |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | | | | | |
 
 ---
-### Featured projects
 
-##### • Robotised warehouse management system
-`Java` `Spring Boot` `PostgreSQL` `Docker` `REST APIs`
+## Featured projects
 
-Enterprise web application for managing operations inside a fully automated warehouse. The system integrates in real time with **autonomous guided vehicles (AGVs)** and **precision weighing scales** via custom protocol adapters, orchestrating pick-and-place workflows, inventory reconciliation, and operational dashboards. Responsible for backend architecture, REST API design, database modelling, and system documentation across 3 years of iterative development.
+#### Robotised warehouse management system
+`Java` `Spring Boot` `PostgreSQL` `Docker` `REST`
 
-##### • SolidWorks 3D drawing automation pipeline
-`VBA` `SolidWorks API` `SQL` `SMTP` `PDM`
+Enterprise web application running operations inside a fully-automated warehouse. Real-time integration with **AGVs** and **precision scales** through custom protocol adapters; orchestrates pick-and-place workflows, inventory reconciliation, and operational dashboards. I owned backend architecture, REST API design, data modelling, and system documentation across 3 years of iterative delivery. *Handles ~[N] operations/day across ~[N] SKUs.*
 
-Designed and implemented a macro pipeline that migrates a mechanical drawing workflow from **2D AutoDesk to 3D SolidWorks**. The system reads structured data exported from the company's ERP, processes parent-file configurations, and **automatically generates child 3D models and their corresponding 2D technical layouts**, complete with generation flags, outcome logging, and email alert notifications. Currently extending the pipeline to cover full assembly generation and associated table creation.
+#### SolidWorks 3D drawing automation pipeline
+`VBA` `SolidWorks API` `SQL` `PDM` `SMTP`
 
-##### • Enterprise LLM wiki — local AI memory system
-`LLM` `OCR` `AI Agents` `Knowledge Base`
+Macro pipeline migrating a mechanical-drawing workflow from **2D AutoCAD to 3D SolidWorks**. Reads structured data from the company ERP, processes parent-file configurations, and auto-generates child 3D models and their corresponding 2D layouts — with generation flags, outcome logging, and email alerting. *Cut drawing time by ~[N%]; currently extending to full assembly generation and associated table creation.*
 
-Experimental internal project exploring the design of a **company-wide knowledge base** queryable by AI agents. The system ingests and indexes enterprise documentation into a local vector store, enabling LLM-powered agents to retrieve context-aware answers from proprietary knowledge without exposing data to external APIs. Focus areas: retrieval-augmented generation (RAG) pipeline architecture, chunking strategies, embedding models, and agent tool-use patterns. Currently in proof-of-concept phase.
+#### Enterprise LLM wiki — local AI memory · R&D
+`LLM` `RAG` `OCR` `AI Agents`
 
----
-### Traits
-
-As an [**ENFJ-T**](https://www.16personalities.com/enfj-personality), I bring strong organisational discipline and a consistent drive to deliver high-quality outcomes. I hold myself to demanding standards and always aim to provide the best possible contribution to every project and team I work with.
-
-I actively seek out new challenges and take satisfaction in applying my skills beyond narrow self-interest. I am committed to supporting colleagues and frequently go beyond what is strictly expected — I find that a full, demanding workload tends to bring out my highest levels of productivity and engagement.
+Internal proof-of-concept for a company-wide knowledge base queryable by AI agents. Ingests and indexes proprietary documentation into a local vector store so LLM agents retrieve context-aware answers **without sending data to external APIs**. Focus areas: RAG pipeline architecture, chunking strategies, embedding models, and agent tool-use patterns.
 
 ---
-### Philosophy
 
-I maintain a genuine intellectual curiosity and a strong drive to explore domains that fall within — and occasionally beyond — my current areas of expertise. I regularly seek out new challenges, motivated as much by the desire to learn as by the pursuit of tangible results.
+## How I work
 
-I am rigorous in self-assessment and consistently identify opportunities to improve my own work. I maintain a clear awareness of both my strengths and the gaps I am working to close. I welcome constructive criticism as a tool for growth and take genuine pride in the quality and consistency of what I deliver.
-
----
-### Motivation
-
-I am driven by the challenge of solving complex problems and the pursuit of continuous growth — which is why the IT field has been such a natural fit. The ever-evolving nature of technology sustains my engagement, and I thrive in environments where innovation and learning are embedded in the day-to-day.
-
-As my technical expertise deepens and broadens, I am committed to applying it in ways that generate meaningful impact — for the teams I work with, the systems I build, and the organisations that depend on them.
+**Design before code** — data models and interface contracts are defined and documented before the first line of implementation. I'm direct about blockers, thorough with documentation, and default to ownership: equally effective leading a project solo or contributing inside a structured team.
 
 ---
-### Working style
 
-I thrive in **collaborative, high-accountability environments** where continuous improvement is the norm rather than the exception. Colleagues describe me as tenacious, self-critical, and delivery-focused — traits that translate into clean architecture decisions, thorough documentation, and proactive communication when blockers arise.
+## How I grow
 
-I approach every project with a strong commitment to **design before code**: system design, data modelling, and interface contracts are always defined and documented before the first line of implementation is written.
+> *"If I have seen further, it is by standing on the shoulders of giants."* — Isaac Newton
 
----
-### Currently exploring
-
-- 🤖 **AI agent engineering** — LLM orchestration, tool-use patterns, and multi-agent workflow design
-- 🧠 **Wiki knowledge systems** — building local, privacy-preserving LLM memory layers queryable by autonomous agents (R&D)
-- ☁️ **Cloud-native deployment** — containerisation strategies, CI/CD pipelines, and infrastructure as code
+Real progress builds on the work of others. I treat the ecosystem — documentation, the developer community, and AI assistants — as a force-multiplier to move faster and explore wider, while the architecture, trade-offs, and final calls stay mine. I hold myself to high standards, actively seek feedback, and measure growth by what I ship.
 
 ---
-### Check out my repositories
-- [🏆 Code challenges](https://github.com/stars/danielPoloWork/lists/code-challenges): Solutions to coding challenge websites like LeetCode.
-- [🚀 My stack](https://github.com/stars/danielPoloWork/lists/my-stack): A collection of my personal projects.
-- [📚 Utilities](https://github.com/stars/danielPoloWork/lists/utilities): Configuration files, guides, templates, themes, and other utilities.
-- [📙 EURIS Academy 2022 - Material](https://github.com/stars/danielPoloWork/lists/euris-academy-2022-material): Tutor's materials from my studies.
-- [🎓 EURIS Academy 2022 - Exams](https://github.com/stars/danielPoloWork/lists/euris-academy-2022-exams): My exams and assessments.
+
+## Currently exploring
+
+- 🤖 **AI agent engineering** — LLM orchestration, tool-use patterns, multi-agent workflows
+- 🧠 **Local LLM knowledge systems** — privacy-preserving memory layers queryable by agents (R&D)
+- ☁️ **Cloud-native delivery** — containerisation, CI/CD pipelines, infrastructure as code
+
+---
+
+## Portfolio
+
+Public, purpose-built projects — one per core language, plus a small AI build — that demonstrate the engineering behind the (mostly NDA) work above. They share one thread: **enterprise & industrial systems, built end to end.**
+
+- **[Warehouse orchestration service](https://github.com/danielPoloWork/warehouse-orchestration-reference)** &nbsp;·&nbsp; `Java` `Spring Boot` `PostgreSQL` `Docker`
+  Flagship backend. Order/inventory orchestration with a pluggable device-adapter layer, hexagonal architecture, synthetic data, tests, and CI.
+
+- **[Real-time telemetry dashboard](https://github.com/danielPoloWork/realtime-telemetry-dashboard)** &nbsp;·&nbsp; `TypeScript` `Node.js` `WebSocket` `React`
+  Full-stack TypeScript. Live dashboard ingesting simulated device/sensor events over WebSocket — typed end to end, with reconnection and backpressure handling.
+
+- **[ERP data ingestion pipeline](https://github.com/danielPoloWork/erp-data-pipeline)** &nbsp;·&nbsp; `Python` `pydantic` `pytest`
+  Reads structured ERP-style exports, validates and transforms them, and loads them downstream — typed models, schema validation, and a clean CLI.
+
+- **[AI document assistant](https://github.com/danielPoloWork/ai-document-assistant)** &nbsp;·&nbsp; `Python` `LLM` `RAG`
+  A small, well-documented RAG demo: load documents, ask questions, get sourced answers locally — the seed of the larger knowledge-base R&D above.
+
+- **[Architecture case studies](https://github.com/danielPoloWork/architecture-case-studies)** &nbsp;·&nbsp; `System Design` `C4`
+  Sanitised write-ups of real systems I've designed: diagrams, trade-offs, and the reasoning behind each decision.
+
+> **More**
+> [🏆 Code challenges](https://github.com/stars/danielPoloWork/lists/code-challenges) — LeetCode and similar solutions.
+
+---
+
+## Contact
+
+📫 **Open to senior backend / platform roles** at product-driven companies — remote or relocation outside Europe.
+Reach me on **[LinkedIn](https://it.linkedin.com/in/daniel-polo-work)**.
