@@ -101,15 +101,34 @@ Real progress builds on the work of others. I treat the ecosystem — documentat
 
 Public, purpose-built projects — one per core language, plus a small AI build — that demonstrate the engineering behind the (mostly NDA) work above. They share one thread: **enterprise & industrial systems, built end to end.**
 
-- **[Warehouse orchestration service](https://github.com/danielPoloWork/warehouse-orchestration-reference)** &nbsp;·&nbsp; `Java` `Spring Boot` `PostgreSQL` `Docker`
-  Flagship backend. Order/inventory orchestration with a pluggable device-adapter layer, hexagonal architecture, synthetic data, tests, and CI.
-- **[Real-time telemetry dashboard](https://github.com/danielPoloWork/realtime-telemetry-dashboard)** &nbsp;·&nbsp; `TypeScript` `Node.js` `WebSocket` `React`
+- **[Warehouse orchestration service](https://github.com/danielPoloWork/warehouse-orchestration-reference)** 
+  
+  `Java` `Spring Boot` `PostgreSQL` `Docker`
+
+  Flagship backend. Order/inventory orchestration with a pluggable device-adapter layer, hexagonal architecture, synthetic data, tests, and CI.```
+
+- **[Real-time telemetry dashboard](https://github.com/danielPoloWork/realtime-telemetry-dashboard)**
+  
+  `TypeScript` `Node.js` `WebSocket` `React`
+  
   Full-stack TypeScript. Live dashboard ingesting simulated device/sensor events over WebSocket — typed end to end, with reconnection and backpressure handling.
-- **[ERP data ingestion pipeline](https://github.com/danielPoloWork/erp-data-pipeline)** &nbsp;·&nbsp; `Python` `pydantic` `pytest`
+
+- **[ERP data ingestion pipeline](https://github.com/danielPoloWork/erp-data-pipeline)**
+  
+  `Python` `pydantic` `pytest`
+  
   Reads structured ERP-style exports, validates and transforms them, and loads them downstream — typed models, schema validation, and a clean CLI.
-- **[AI document assistant](https://github.com/danielPoloWork/ai-document-assistant)** &nbsp;·&nbsp; `Python` `LLM` `RAG`
+
+- **[AI document assistant](https://github.com/danielPoloWork/ai-document-assistant)**
+
+  `Python` `LLM` `RAG`
+  
   A small, well-documented RAG demo: load documents, ask questions, get sourced answers locally — the seed of the larger knowledge-base R&D above.
-- **[Architecture case studies](https://github.com/danielPoloWork/architecture-case-studies)** &nbsp;·&nbsp; `System Design` `C4`
+
+- **[Architecture case studies](https://github.com/danielPoloWork/architecture-case-studies)**
+
+  `System Design` `C4`
+
   Sanitised write-ups of real systems I've designed: diagrams, trade-offs, and the reasoning behind each decision.
 
 > **More**
