@@ -17,14 +17,12 @@
 <img width="1920" height="550" alt="banner" src="https://github.com/user-attachments/assets/ce992820-531f-4769-9ca4-d333ec169997" />
 
 # Daniel Polo
-### Senior Backend Engineer · Full-Stack Developer · exploring AI Engineering
+#### Senior Backend Engineer · Full-Stack Developer · exploring AI Engineering
 
 Backend architecture for systems where software meets physical operations — enterprise CRM/ERP, robotised warehouses, and CAD automation. I design the system before I write the code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/daniel-polo-work)
 [![Code Challenges](https://img.shields.io/badge/Code_Challenges-FFA116?style=flat&logo=leetcode&logoColor=white)](https://github.com/stars/danielPoloWork/lists/code-challenges)
-
----
 
 ## About
 
@@ -37,8 +35,6 @@ Most recently I led a **CAD automation** initiative that replaced a legacy **2D 
 Deep on the backend (**Java / Spring**), mid-level on the frontend. My focus stays on the craft of building software — growing toward architect-level backend and platform work — while I deliberately explore **AI-agent engineering** as the next frontier.
 
 > **On visibility:** most of my strongest work is proprietary and under NDA. What's public here is purpose-built to demonstrate the same engineering — reference projects and coding challenges. I'm glad to walk through the architecture and design decisions of the private systems in a call, or share sanitised case studies.
-
----
 
 ## Tech
 
@@ -53,8 +49,6 @@ Deep on the backend (**Java / Spring**), mid-level on the frontend. My focus sta
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | | | | | |
 | ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white) | | | | | |
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | | | | | |
-
----
 
 ## Featured projects
 
@@ -73,13 +67,9 @@ Macro pipeline migrating a mechanical-drawing workflow from **2D AutoCAD to 3D S
 
 Internal proof-of-concept for a company-wide knowledge base queryable by AI agents. Ingests and indexes proprietary documentation into a local vector store so LLM agents retrieve context-aware answers **without sending data to external APIs**. Focus areas: RAG pipeline architecture, chunking strategies, embedding models, and agent tool-use patterns.
 
----
-
 ## How I work
 
 **Design before code** — data models and interface contracts are defined and documented before the first line of implementation. I'm direct about blockers, thorough with documentation, and default to ownership: equally effective leading a project solo or contributing inside a structured team.
-
----
 
 ## How I grow
 
@@ -87,15 +77,11 @@ Internal proof-of-concept for a company-wide knowledge base queryable by AI agen
 
 Real progress builds on the work of others. I treat the ecosystem — documentation, the developer community, and AI assistants — as a force-multiplier to move faster and explore wider, while the architecture, trade-offs, and final calls stay mine. I hold myself to high standards, actively seek feedback, and measure growth by what I ship.
 
----
-
 ## Currently exploring
 
 - 🤖 **AI agent engineering** — LLM orchestration, tool-use patterns, multi-agent workflows
 - 🧠 **Local LLM knowledge systems** — privacy-preserving memory layers queryable by agents (R&D)
 - ☁️ **Cloud-native delivery** — containerisation, CI/CD pipelines, infrastructure as code
-
----
 
 ## Portfolio
 
@@ -133,8 +119,6 @@ Public, purpose-built projects — one per core language, plus a small AI build 
 
 > **More**
 > [Code challenges](https://github.com/stars/danielPoloWork/lists/code-challenges) — LeetCode and similar solutions.
-
----
 
 ## Contact
 
