@@ -26,9 +26,9 @@ Backend architecture for systems where software meets physical operations — en
 
 ## About
 
-I'm a full-stack engineer with **5+ years** of professional experience, deep on **backend architecture** for enterprise web applications (CRM, ERP) and **industrial automation**.
+I'm a full-stack engineer with **10+ years** of professional experience, deep on **backend architecture** for enterprise web applications (CRM, ERP) and **industrial automation**.
 
-For the past **3 years** I've architected management software for **fully-automated warehouses** — real-time integration with **autonomous guided vehicles (AGVs)** and **precision weighing hardware** through custom protocol adapters, orchestrating ~200 pick-and-place operations per day across ~20,000 SKUs.
+For the past **few years** I've architected management software for **fully-automated warehouses** — real-time integration with **autonomous guided vehicles (AGVs)** and **precision weighing hardware** through custom protocol adapters, orchestrating ~200 pick-and-place operations per day across ~20,000 SKUs.
 
 Most recently I led a **CAD automation** initiative that replaced a legacy **2D AutoCAD** workflow with a **SolidWorks** macro pipeline — generating 3D assemblies and 2D technical layouts directly from ERP data, cutting drawing time by ~99%.
 
