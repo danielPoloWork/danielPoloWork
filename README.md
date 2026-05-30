@@ -132,11 +132,11 @@ Public, purpose-built projects — one per core language, plus a small AI build 
   Sanitised write-ups of real systems I've designed: diagrams, trade-offs, and the reasoning behind each decision.
 
 > **More**
-> [🏆 Code challenges](https://github.com/stars/danielPoloWork/lists/code-challenges) — LeetCode and similar solutions.
+> [Code challenges](https://github.com/stars/danielPoloWork/lists/code-challenges) — LeetCode and similar solutions.
 
 ---
 
 ## Contact
 
-📫 **Open to senior backend / platform roles** at product-driven companies — remote or relocation outside Europe.
-Reach me on **[LinkedIn](https://it.linkedin.com/in/daniel-polo-work)**.
+**Open to backend / platform roles** at product-driven companies — remote or relocation outside Europe.
+- Reach me on **[LinkedIn](https://it.linkedin.com/in/daniel-polo-work)**.
