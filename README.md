@@ -50,7 +50,7 @@ Deep on the backend (**Java / Spring**), mid-level on the frontend. My focus sta
 | ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white) | | | | | |
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | | | | | |
 
-## Featured projects
+## Current Engineering Work
 
 #### Robotised warehouse management system
 `Java` `Spring Boot` `PostgreSQL` `Docker` `REST`
@@ -85,37 +85,20 @@ Real progress builds on the work of others. I treat the ecosystem — documentat
 
 ## Portfolio
 
-Public, purpose-built projects — one per core language, plus a small AI build — that demonstrate the engineering behind the (mostly NDA) work above. They share one thread: **enterprise & industrial systems, built end to end.**
+#### Public, Production-Grade Systems
+A curated collection of real-world engineering initiatives spanning enterprise software, industrial automation, logistics platforms, and AI-enabled systems. Each project highlights architecture, integration strategy, automation design, and end-to-end delivery while excluding proprietary business information.
 
-- **[Warehouse orchestration service](https://github.com/danielPoloWork/warehouse-orchestration-reference)** 
+- **[Mycelium LABS](https://danielpolowork.github.io/mycelium-labs)** 
   
-  `Java` `Spring Boot` `PostgreSQL` `Docker`
+  `Open-source` `Agentic Knowledge OS`
 
-  Flagship backend. Order/inventory orchestration with a pluggable device-adapter layer, hexagonal architecture, synthetic data, tests, and CI.```
+  Mycelium Labs is an open-source ecosystem that turns fragmented information into a living, connected, operational asset — a shared source of truth for documentation, architecture, governance, and AI agents alike.
 
-- **[Real-time telemetry dashboard](https://github.com/danielPoloWork/realtime-telemetry-dashboard)**
-  
-  `TypeScript` `Node.js` `WebSocket` `React`
-  
-  Full-stack TypeScript. Live dashboard ingesting simulated device/sensor events over WebSocket — typed end to end, with reconnection and backpressure handling.
+#### Public, purpose-built references
+One per core language, plus a small AI build — fully independent engineering samples designed to illustrate my architectural approach. These artifacts are entirely original and not derived from, nor related to, my current company work (mostly NDA). One thread: enterprise & industrial systems, engineered end to end.
 
-- **[ERP data ingestion pipeline](https://github.com/danielPoloWork/erp-data-pipeline)**
-  
-  `Python` `pydantic` `pytest`
-  
-  Reads structured ERP-style exports, validates and transforms them, and loads them downstream — typed models, schema validation, and a clean CLI.
-
-- **[AI document assistant](https://github.com/danielPoloWork/ai-document-assistant)**
-
-  `Python` `LLM` `RAG`
-  
-  A small, well-documented RAG demo: load documents, ask questions, get sourced answers locally — the seed of the larger knowledge-base R&D above.
-
-- **[Architecture case studies](https://github.com/danielPoloWork/architecture-case-studies)**
-
-  `System Design` `C4`
-
-  Sanitised write-ups of real systems I've designed: diagrams, trade-offs, and the reasoning behind each decision.
+###### *COMING SOON...*
+*I’m currently revamping and refactoring my GitHub structure; the new sample repositories will be published shortly.*
 
 > **More**
 > [Code challenges](https://github.com/stars/danielPoloWork/lists/code-challenges) — LeetCode and similar solutions.
