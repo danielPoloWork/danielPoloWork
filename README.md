@@ -101,7 +101,7 @@ One per core language, plus a small AI build — fully independent engineering s
 *I’m currently revamping and refactoring my GitHub structure; the new sample repositories will be published shortly.*
 
 > **More**
-> [Code challenges](https://github.com/stars/danielPoloWork/lists/code-challenges) — LeetCode and similar solutions.
+> [Coding challenges]([https://github.com/stars/danielPoloWork/lists/code-challenges](https://danielpolowork.github.io/coding-challenges)) — LeetCode and similar solutions.
 
 ## Contact
 
