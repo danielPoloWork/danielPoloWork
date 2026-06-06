@@ -88,6 +88,7 @@ Real progress builds on the work of others. I treat the ecosystem — documentat
 #### Public, Production-Grade Systems
 A curated collection of real-world engineering initiatives spanning enterprise software, industrial automation, logistics platforms, and AI-enabled systems. Each project highlights architecture, integration strategy, automation design, and end-to-end delivery while excluding proprietary business information.
 
+###### *COMING SOON...*
 - **[Mycelium LABS](https://danielpolowork.github.io/mycelium-labs)** 
   
   `Open-source` `Agentic Knowledge OS`
@@ -101,7 +102,7 @@ One per core language, plus a small AI build — fully independent engineering s
 *I’m currently revamping and refactoring my GitHub structure; the new sample repositories will be published shortly.*
 
 > **More**
-> [Coding challenges]([https://github.com/stars/danielPoloWork/lists/code-challenges](https://danielpolowork.github.io/coding-challenges)) — LeetCode and similar solutions.
+> [Coding challenges](https://github.com/stars/danielPoloWork/lists/code-challenges) — LeetCode and similar solutions.
 
 ## Contact
 
