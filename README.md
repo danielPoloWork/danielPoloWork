@@ -5,8 +5,12 @@
 
 Backend architecture for systems where software meets physical operations — enterprise CRM/ERP, robotised warehouses, and CAD automation. I design the system before I write the code.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/daniel-polo-work)
-[![Code Challenges](https://img.shields.io/badge/Code_Challenges-FFA116?style=flat&logo=leetcode&logoColor=white)](https://github.com/stars/danielPoloWork/lists/code-challenges)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=)](https://it.linkedin.com/in/daniel-polo-work)
+[![Mycelium LABS](https://img.shields.io/badge/%F0%9F%A7%AC_Mycelium_LABS-E87A1E?style=flat)](https://github.com/stars/danielPoloWork/lists/mycelium-labs-echo-system)
+[![Enterprise-grade libraries](https://img.shields.io/badge/%F0%9F%93%9A_Enterprise--grade_libraries-E0E0E0?style=flat)](https://github.com/stars/danielPoloWork/lists/enterprise-grade-libraries)
+[![Production-grade systems](https://img.shields.io/badge/%F0%9F%9A%80_Production--grade_systems-B1EBFB?style=flat)](https://github.com/stars/danielPoloWork/lists/production-grade-systems)
+[![Purpose-built references](https://img.shields.io/badge/%F0%9F%A7%A9_Purpose--built_references-A6D2A3?style=flat)](https://github.com/stars/danielPoloWork/lists/purpose-built-references)
+[![Code challenges](https://img.shields.io/badge/%F0%9F%8F%86_Code_challenges-E6D29F?style=flat)](https://github.com/stars/danielPoloWork/lists/code-challenges)
 
 ## About
 
