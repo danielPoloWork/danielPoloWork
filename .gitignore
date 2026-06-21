@@ -1,0 +1,22 @@
+# IDE — JetBrains / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE — VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build output
+target/
+build/
+out/
+dist/
+
+# Logs
+*.log
