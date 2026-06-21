@@ -3,11 +3,14 @@
 # Daniel Polo
 #### Senior Backend Engineer · Full-Stack Developer · exploring AI Engineering
 
+🌐 **English** · [日本語](i18n/ja/README.md) · [简体中文](i18n/zh-Hans/README.md)
+
 Backend architecture for systems where software meets physical operations — enterprise CRM/ERP, robotised warehouses, and CAD automation. I design the system before I write the code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_↗-0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=)](https://it.linkedin.com/in/daniel-polo-work)
 [![Mycelium LABS](https://img.shields.io/badge/%F0%9F%A7%AC_Mycelium_LABS_↗-E87A1E?style=flat)](https://github.com/stars/danielPoloWork/lists/mycelium-labs-echo-system)
 [![Enterprise-grade libraries](https://img.shields.io/badge/%F0%9F%93%9A_Libraries_↗-E0E0E0?style=flat)](https://github.com/stars/danielPoloWork/lists/enterprise-grade-libraries)
+[![Production-grade games](https://img.shields.io/badge/%F0%9F%8E%AE_Games_↗-E7C8F7?style=flat)](https://github.com/stars/danielPoloWork/lists/production-grade-games)
 [![Production-grade systems](https://img.shields.io/badge/%F0%9F%9A%80_Systems_↗-B1EBFB?style=flat)](https://github.com/stars/danielPoloWork/lists/production-grade-systems)
 [![Purpose-built references](https://img.shields.io/badge/%F0%9F%A7%A9_References_↗-A6D2A3?style=flat)](https://github.com/stars/danielPoloWork/lists/purpose-built-references)
 [![Code challenges](https://img.shields.io/badge/%F0%9F%8F%86_Challenges_↗-E6D29F?style=flat)](https://github.com/stars/danielPoloWork/lists/code-challenges)
@@ -16,11 +19,11 @@ Backend architecture for systems where software meets physical operations — en
 
 I'm a full-stack engineer with **10+ years** of professional experience, deep on **backend architecture** for enterprise web applications (CRM, ERP) and **industrial automation**.
 
-For the past **few years** I've architected management software for **fully-automated warehouses** — real-time integration with **autonomous guided vehicles (AGVs)** and **precision weighing hardware** through custom protocol adapters, orchestrating ~200 pick-and-place operations per day across ~20,000 SKUs.
+Over the **past three years** I've architected management software for **fully-automated warehouses** — real-time integration with **autonomous guided vehicles (AGVs)** and **precision weighing hardware** through custom protocol adapters.
 
-Most recently I led a **CAD automation** initiative that replaced a legacy **2D AutoCAD** workflow with a **SolidWorks** macro pipeline — generating 3D assemblies and 2D technical layouts directly from ERP data, cutting drawing time by ~99%.
+Most recently I led a **CAD automation** initiative that replaced a legacy **2D AutoCAD** workflow with a **SolidWorks** macro pipeline, generating 3D assemblies and 2D technical layouts directly from ERP data.
 
-Deep on the backend (**Java / Spring**), mid-level on the frontend. My focus stays on the craft of building software — growing toward architect-level backend and platform work — while I deliberately explore **AI-agent engineering** as the next frontier.
+Strongest on the backend (**Java / Spring**), solid across the full stack. I'm moving from senior toward **architect-level** backend and platform work, while deliberately exploring **AI-agent engineering** as the next frontier.
 
 > **On visibility:** most of my strongest work is proprietary and under NDA. What's public here is purpose-built to demonstrate the same engineering — reference projects and coding challenges. I'm glad to walk through the architecture and design decisions of the private systems in a call, or share sanitised case studies.
 
@@ -36,7 +39,6 @@ Deep on the backend (**Java / Spring**), mid-level on the frontend. My focus sta
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | | ![Informix](https://img.shields.io/badge/Informix-052FAD?style=flat&logo=ibm&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | | |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | | | | | |
 | ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white) | | | | | |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) | | | | | |
 
 ## Current Engineering Work
 
@@ -59,11 +61,9 @@ Internal proof-of-concept for a company-wide knowledge base queryable by AI agen
 
 **Design before code** — data models and interface contracts are defined and documented before the first line of implementation. I'm direct about blockers, thorough with documentation, and default to ownership: equally effective leading a project solo or contributing inside a structured team.
 
-## How I grow
-
 > *"If I have seen further, it is by standing on the shoulders of giants."* — Isaac Newton
 
-Real progress builds on the work of others. I treat the ecosystem — documentation, the developer community, and AI assistants — as a force-multiplier to move faster and explore wider, while the architecture, trade-offs, and final calls stay mine. I hold myself to high standards, actively seek feedback, and measure growth by what I ship.
+I treat the ecosystem — documentation, the developer community, and AI assistants — as a force-multiplier to move faster and explore wider, while the architecture, trade-offs, and final calls stay mine. I hold myself to high standards, actively seek feedback, and measure growth by what I ship.
 
 ## Currently exploring
 
@@ -73,40 +73,7 @@ Real progress builds on the work of others. I treat the ecosystem — documentat
 
 ## Portfolio
 
-#### Public, Production-Grade Systems
-A curated collection of real-world engineering initiatives spanning enterprise software, industrial automation, logistics platforms, and AI-enabled systems. Each project highlights architecture, integration strategy, automation design, and end-to-end delivery while excluding proprietary business information.
-
-###### *COMING SOON...*
-- **[Mycelium LABS](https://danielpolowork.github.io/mycelium-labs)** 
-  
-  `Open-source` `Agentic Knowledge OS`
-
-  Mycelium Labs is an open-source ecosystem that turns fragmented information into a living, connected, operational asset — a shared source of truth for documentation, architecture, governance, and AI agents alike.
-
-#### Public, purpose-built references
-Fully independent engineering samples designed to illustrate my architectural approach. These artifacts are entirely original and not derived from, nor related to, my current company work (mostly NDA). One thread: enterprise & industrial systems, engineered end to end.
-
-<!-- PORTFOLIO:START — generated by scripts/sync-portfolio.mjs · do not edit by hand -->
-
-#### [Coding Challenges Knowledge Base](https://github.com/danielPoloWork/coding-challenges)
-`JavaScript` `Algorithms` `Data Structures` `Competitive Programming` `Problem Solving` `Patterns`
-
-Enterprise-grade knowledge base for algorithmic problem solving across competitive-programming platforms. It documents the reasoning, complexity trade-offs, and reusable patterns behind each solution — not just the accepted code.
-
-#### [Enterprise Agentic Architecture Orchestrator (EAAO)](https://github.com/danielPoloWork/pgs-eaao)
-`Python` `agentic-os` `project-scaffolding` `code-generation` `enterprise-governance` `language-agnostic` `ci-cd` `semver` `ai-agents`
-
-A language-agnostic agentic OS that reproduces an enterprise engineering system for any new project, in any language. It interviews the maintainer, records the answers in a single manifest, and renders a fully governed, enterprise-grade repository from parameterized templates — agent contract (AGENTS.md), ADRs, a CI quality-gate matrix, a cross-artifact consistency lint, SemVer release governance, and opt-in i18n — for any of 19 toolchains (C/C++, C#, Java, Kotlin, Scala, Python, Go, Rust, TypeScript, Swift, and more). Reverse-engineered from the pbr-cpp-memory-pool reference.
-
-#### [High-Performance Memory Pool Manager (C/C++)](https://github.com/danielPoloWork/pbr-cpp-memory-pool)
-`C++` `memory-pool` `custom-allocator` `high-performance` `low-latency` `cpp17` `ansi-c`
-
-A fixed-block-size O(1) memory pool for C and C++17: pre-allocates contiguous backing storage and delivers constant-time, fixed-size allocation with zero external fragmentation and zero per-block metadata overhead. Four-function C ABI plus an idiomatic C++17 wrapper, built to enterprise quality (warnings-as-errors, sanitizers, Valgrind, Doxygen). Part of the Purpose-Built References (PBR) series.
-
-<!-- PORTFOLIO:END -->
-
-> **More**
-> [Coding challenges](https://github.com/stars/danielPoloWork/lists/code-challenges) — LeetCode and similar solutions.
+The badges above link to my curated GitHub lists by category. For the full, detailed breakdown of every project → **[danielpolowork.github.io](https://danielpolowork.github.io/)**
 
 ## Contact
 
