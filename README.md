@@ -73,7 +73,8 @@ I treat the ecosystem — documentation, the developer community, and AI assista
 
 ## Portfolio
 
-The badges above link to my curated GitHub lists by category. For the full, detailed breakdown of every project → **[danielpolowork.github.io](https://danielpolowork.github.io/)**
+The badges above link to my curated GitHub lists by category. 
+- For the full, detailed breakdown of every project → **[danielpolowork.github.io](https://danielpolowork.github.io/)**
 
 ## Contact
 
